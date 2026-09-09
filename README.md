@@ -14,7 +14,7 @@ Sem ela, o agente inventa hex, tamanho de fonte e espaçamento. Com ela, todo va
 ## Instalação
 
 ```bash
-git clone git@github.com:raul-behnke/zoi-ds-skill.git ~/.claude/skills/zoi-ds
+git clone https://github.com/raul-behnke/zoi-ds-skill.git ~/.claude/skills/zoi-ds
 ```
 
 Ou, se preferir só o arquivo:
